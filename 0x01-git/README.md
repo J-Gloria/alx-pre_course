@@ -1,2 +1,1 @@
-﻿my second readme file
- for practice in alx
+my first readme.
